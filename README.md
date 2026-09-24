@@ -25,8 +25,6 @@ Definición y uso de funciones.
 Manejo de estructuras de datos (Listas, Tuplas, Diccionarios, Cadenas de texto).
 
 Biblotecas (Pandas, Numpy, Matplotlib)
-
-Desarrollado por Lucas Lentini!
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ING - About this repository
 
@@ -53,3 +51,5 @@ Definition and use of functions.
 Data structures (Lists, Tuples, Dictionaries, Strings).
 
 Python libraries (Pandas, Numpy, Matplotlib)
+
+Desarrollado por Lucas Lentini!
