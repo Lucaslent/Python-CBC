@@ -25,6 +25,7 @@ Definición y uso de funciones.
 Manejo de estructuras de datos (Listas, Tuplas, Diccionarios, Cadenas de texto).
 
 Biblotecas (Pandas, Numpy, Matplotlib)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ING - About this repository
 
